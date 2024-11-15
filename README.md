@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nickk1337
+- 👋 Hi, I’m @picknick1337
 - 👀 I’m interested in C, C++, Python and more
-- 🌱 I’m currently learning Python
-- 📫 nikhil.191ch031@nitk.edu.in
+- 🌱 I’m currently looking to learn some AI, LLM stuff
 
 <!---
 nickk1337/nickk1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
