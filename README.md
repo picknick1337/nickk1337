@@ -10,7 +10,7 @@ Nikhil</a></h1>
 <p align="left"> <a href="https://twitter.com/picknick1337" target="blank"><img src="https://img.shields.io/twitter/follow/picknick1337?logo=twitter&style=for-the-badge" alt="picknick1337" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" style=”padding: 5px 5px 5px 5px” src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://www.anz.com/institutional/global/india/en/group-capability-centre-bengaluru/" target="blank">ANZ Operations & Technology</a>
