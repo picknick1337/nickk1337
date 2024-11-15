@@ -3,7 +3,7 @@
 <h3 align="center">I like to do things. </h3>
 <img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
-- 🔭 I’m currently working in <a href="https://www.anz.com/institutional/global/india/en/group-capability-centre-bengaluru/" target="blank">ANZ Operations & Technology</a>.
+- 🔭 I’m currently working at <a href="https://www.anz.com/institutional/global/india/en/group-capability-centre-bengaluru/" target="blank">ANZ Operations & Technology</a>.
 
 - 👀 I’m interested in C, C++, Python and more.
 
