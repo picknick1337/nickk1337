@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm <a href="https://picknick1337.github.io/Me.io/" target="blank">
-Nikhil</a></h1>
-<h3 align="center">A Python developer from India &#127470;&#127475</h3>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">I like to do things. &#127470;&#127475</h3>
 <img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
 - 🔭 I’m currently working in <a href="https://www.anz.com/institutional/global/india/en/group-capability-centre-bengaluru/" target="blank">ANZ Operations & Technology</a>.
