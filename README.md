@@ -1,10 +1,8 @@
 
-<div>
-
 <h1 align="center">Hi 👋, I'm <a href="https://picknick1337.github.io/Me.io/" target="blank">
 Nikhil</a></h1>
 <h3 align="center">A Python developer from India &#127470;&#127475</h3>
-
+<img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=picknick1337&label=Profile%20views&color=0e75b6&style=flat" alt="picknick1337" /> </p>
@@ -20,7 +18,7 @@ Nikhil</a></h1>
 
 
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
